@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|c:\\users\\bibek neupane\\source\\repos\\employee\\employeeregistration\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|solutionrelative:employeeregistration\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|c:\\users\\bibek neupane\\source\\repos\\employee\\employeeregistration\\models\\viewmodels\\qualificationlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|solutionrelative:employeeregistration\\models\\viewmodels\\qualificationlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|c:\\users\\bibek neupane\\source\\repos\\employee\\employeeregistration\\models\\viewmodels\\addemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|solutionrelative:employeeregistration\\models\\viewmodels\\addemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|c:\\users\\bibek neupane\\source\\repos\\employee\\employeeregistration\\models\\appentities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|solutionrelative:employeeregistration\\models\\appentities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|c:\\users\\bibek neupane\\source\\repos\\employee\\employeeregistration\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|solutionrelative:employeeregistration\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bibek Neupane\\Downloads\\dishhome-care-v2\\DishHomeRealignment.UI\\Views\\CBSActivation\\CreateNetOnlyActivation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|c:\\users\\bibek neupane\\source\\repos\\employee\\employeeregistration\\wwwroot\\js\\employee-table.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|solutionrelative:employeeregistration\\wwwroot\\js\\employee-table.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|c:\\users\\bibek neupane\\source\\repos\\employee\\employeeregistration\\models\\viewmodels\\employeelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|solutionrelative:employeeregistration\\models\\viewmodels\\employeelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|c:\\users\\bibek neupane\\source\\repos\\employee\\employeeregistration\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|solutionrelative:employeeregistration\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|c:\\users\\bibek neupane\\source\\repos\\employee\\employeeregistration\\models\\appentities\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|solutionrelative:employeeregistration\\models\\appentities\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|c:\\users\\bibek neupane\\source\\repos\\employee\\employeeregistration\\models\\appentities\\employeequalification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|solutionrelative:employeeregistration\\models\\appentities\\employeequalification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bibek Neupane\\Downloads\\dishhome-care-v2\\DishHomeRealignment.UI\\Views\\CBSActivation\\CustomerRegistrationList.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|c:\\users\\bibek neupane\\source\\repos\\employee\\employeeregistration\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|solutionrelative:employeeregistration\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bibek Neupane\\Documents\\practice\\html\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|c:\\users\\bibek neupane\\source\\repos\\employee\\employeeregistration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|solutionrelative:employeeregistration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bibek Neupane\\source\\repos\\crud\\crud\\Views\\Employee\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|c:\\users\\bibek neupane\\source\\repos\\employee\\employeeregistration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|solutionrelative:employeeregistration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|c:\\users\\bibek neupane\\source\\repos\\employee\\employeeregistration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5D5CCD7-5513-474F-A117-D484AC1BB166}|EmployeeRegistration\\EmployeeRegistration.csproj|solutionrelative:employeeregistration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bibek Neupane\\source\\repos\\crud\\crud\\Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Views\\Employee\\Add.cshtml",
+              "RelativeDocumentMoniker": "EmployeeRegistration\\Views\\Employee\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Views\\Employee\\Add.cshtml",
+              "RelativeToolTip": "EmployeeRegistration\\Views\\Employee\\Add.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T10:07:04.973Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "EmployeeRegistration\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "EmployeeRegistration\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T10:29:36.342Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeRegistration\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeRegistration\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:04:32.722Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QualificationListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Models\\ViewModels\\QualificationListViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeeRegistration\\Models\\ViewModels\\QualificationListViewModel.cs",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Models\\ViewModels\\QualificationListViewModel.cs",
+              "RelativeToolTip": "EmployeeRegistration\\Models\\ViewModels\\QualificationListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:24:20.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "employee-table.js",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\wwwroot\\js\\employee-table.js",
+              "RelativeDocumentMoniker": "EmployeeRegistration\\wwwroot\\js\\employee-table.js",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\wwwroot\\js\\employee-table.js",
+              "RelativeToolTip": "EmployeeRegistration\\wwwroot\\js\\employee-table.js",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-09T10:51:35.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerRegistrationList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\Downloads\\dishhome-care-v2\\DishHomeRealignment.UI\\Views\\CBSActivation\\CustomerRegistrationList.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\dishhome-care-v2\\DishHomeRealignment.UI\\Views\\CBSActivation\\CustomerRegistrationList.cshtml",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\Downloads\\dishhome-care-v2\\DishHomeRealignment.UI\\Views\\CBSActivation\\CustomerRegistrationList.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\dishhome-care-v2\\DishHomeRealignment.UI\\Views\\CBSActivation\\CustomerRegistrationList.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T10:49:16.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\Documents\\practice\\html\\style.css",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\practice\\html\\style.css",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\Documents\\practice\\html\\style.css",
+              "RelativeToolTip": "..\\..\\..\\Documents\\practice\\html\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T10:31:42.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeRegistration\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeRegistration\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAC8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T10:30:31.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Models\\ViewModels\\EmployeeListViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeeRegistration\\Models\\ViewModels\\EmployeeListViewModel.cs",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Models\\ViewModels\\EmployeeListViewModel.cs",
+              "RelativeToolTip": "EmployeeRegistration\\Models\\ViewModels\\EmployeeListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:06:18.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateNetOnlyActivation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\Downloads\\dishhome-care-v2\\DishHomeRealignment.UI\\Views\\CBSActivation\\CreateNetOnlyActivation.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\dishhome-care-v2\\DishHomeRealignment.UI\\Views\\CBSActivation\\CreateNetOnlyActivation.cshtml",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\Downloads\\dishhome-care-v2\\DishHomeRealignment.UI\\Views\\CBSActivation\\CreateNetOnlyActivation.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\dishhome-care-v2\\DishHomeRealignment.UI\\Views\\CBSActivation\\CreateNetOnlyActivation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T10:27:27.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\source\\repos\\crud\\crud\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\crud\\crud\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\source\\repos\\crud\\crud\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "..\\crud\\crud\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T10:26:48.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeRegistration\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EmployeeRegistration\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T10:20:52.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Models\\ViewModels\\AddEmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeeRegistration\\Models\\ViewModels\\AddEmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Models\\ViewModels\\AddEmployeeViewModel.cs",
+              "RelativeToolTip": "EmployeeRegistration\\Models\\ViewModels\\AddEmployeeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:06:25.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeRegistration\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\appsettings.json",
+              "RelativeToolTip": "EmployeeRegistration\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T09:54:05.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\source\\repos\\crud\\crud\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\crud\\crud\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\source\\repos\\crud\\crud\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\crud\\crud\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:50:24.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeRegistration\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeRegistration\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAhwBsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:43:11.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Qualification.cs",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Models\\AppEntities\\Qualification.cs",
+              "RelativeDocumentMoniker": "EmployeeRegistration\\Models\\AppEntities\\Qualification.cs",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Models\\AppEntities\\Qualification.cs",
+              "RelativeToolTip": "EmployeeRegistration\\Models\\AppEntities\\Qualification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:21:22.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeQualification.cs",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Models\\AppEntities\\EmployeeQualification.cs",
+              "RelativeDocumentMoniker": "EmployeeRegistration\\Models\\AppEntities\\EmployeeQualification.cs",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Models\\AppEntities\\EmployeeQualification.cs",
+              "RelativeToolTip": "EmployeeRegistration\\Models\\AppEntities\\EmployeeQualification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:17:05.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Models\\AppEntities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeRegistration\\Models\\AppEntities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Bibek Neupane\\source\\repos\\Employee\\EmployeeRegistration\\Models\\AppEntities\\Employee.cs",
+              "RelativeToolTip": "EmployeeRegistration\\Models\\AppEntities\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:13:23.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
